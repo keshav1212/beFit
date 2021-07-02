@@ -187,7 +187,7 @@
   }
   
   .main-hero-section h1 {
-    width: 55rem;
+    width: 48rem;
     font-size: 7.5rem;
     line-height: 9rem;
     margin-bottom: 5rem;
@@ -218,7 +218,7 @@
   .main-hero-section .hero-right-side {
     width: 50%;
     height: 100vh;
-    background: var(--background-color);
+    /* background: var(--background-color); */
     position: absolute;
     right: 0;
     top: 0;
